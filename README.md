@@ -14,6 +14,32 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+## Synopsis
+
+I researched several possibilities for implementing charts and graphs into my application and came across React-Vis,
+created by Uber and built with React and D3. React-Vis is said to be one of the easiest React charting libraries to get started with. I found React-vis relatively easy to work with. The components provided by react-vis function in a similar way to other react components, with props, children, and callbacks.
+
+To use React-Vis:
+
+I created a CRA amd installed the React-Vis library using NPM. Then, I was able to explore different charts and figure out their implementation. 
+
+reference 1: http://uber.github.io/react-vis/
+reference 2: https://github.com/uber/react-vis/tree/premodern
+
+
+Take Away:
+
+I can use this library to implement charts into my project.
+
+NOTE: After further research, another option would be to use Chart.css. Charts.css is a new open source framework for data visualization. It replaces traditional JS charting libraries with a CSS framework. With a few simple CSS classes applied on the container element you can turn your entire table of data into a chart. The framework is developer-friendly making it easy to customize every element with simple CSS selectors.
+
+reference: https://chartscss.org/docs/installation/
+
+
+
+
+
+
 <!-- ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
