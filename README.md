@@ -19,7 +19,7 @@ created by Uber and built with React and D3. React-Vis is said to be one of the 
 
 ## To use React-Vis
 
-I created a CRA amd installed the React-Vis library using NPM. Then, I was able to explore different charts and figure out their implementation. 
+I created a CRA and installed the React-Vis library using NPM. Then, I was able to explore different charts and figure out their implementation. 
 
 reference 1: [http://uber.github.io/react-vis/]  
 
